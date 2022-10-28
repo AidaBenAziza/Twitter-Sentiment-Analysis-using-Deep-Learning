@@ -9,6 +9,7 @@ Emotion analysis is one of the most widely used applications of data science in 
 In this work, I took a dataset from Twitter and I did my best to explain to you all the feelings of users through several modelling techniques and deep acceleration.
 Network data classifier based on the convolutional neural network.
 The dataset  and  its description is available here:https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
+
 Keywords: sentiment analysis , CNN, LSTM, classification and prediction , machine learning , deep learning.
 
 Deep learning may be thought of as a subset of machine learning. This is an area which is based on learning and improving one's own through the examination of computer algorithms. While machine learning uses more straightforward concepts, deep learning works with artificial neural networks, which are designed to mimic the way humans think and learn. Until recently, neural networks were constrained by computational power and therefore by their complexity. However, advances in big data analysis have enabled larger and more sophisticated neural networks, allowing computers to observe, learn and respond to complex situations more quickly than humans. Deep learning facilitated the classification of images, language translation, voice recognition. It may be used to solve any problem of recognition of forms and without human intervention.
