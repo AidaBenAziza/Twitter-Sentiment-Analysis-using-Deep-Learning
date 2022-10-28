@@ -20,8 +20,11 @@ CNN  is the most famous and commonly employed algorithm . The main benefit of CN
 
 References 
 CNN Overview: https://link.springer.com/article/10.1186/s40537-021-00444-8
+
 LSTM Overview : https://www.analyticsvidhya.com/blog/2022/03/an-overview-on-long-short-term-memory-lstm/
+
 Code Optimisation Techniques :https://www.geeksforgeeks.org/optimization-tips-python-code/
+
 
 
 
