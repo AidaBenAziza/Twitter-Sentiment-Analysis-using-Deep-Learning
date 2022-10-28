@@ -8,10 +8,11 @@ Accuracy : 97%
 Advanced operations: data preprocessing, model creation, parameter adjustment and prediction.
 
 1-Introduction
+
 Emotion analysis is one of the most widely used applications of data science in real-world analysis. Since the world is dependent on social media, users' opinions and explanations can help us understand their feelings and intentions.
 In this work, I took a dataset from Twitter and I did my best to explain to you all the feelings of users through several modelling techniques and deep acceleration.
 Network data classifier based on the convolutional neural network.
-The dataset  and  its description is available here:https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
+The dataset  and  its description is available here: https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
 
 Keywords: sentiment analysis , CNN, LSTM, classification and prediction , machine learning , deep learning.
 
