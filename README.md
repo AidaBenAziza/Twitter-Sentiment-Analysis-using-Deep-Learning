@@ -22,6 +22,15 @@ Long short-term memory (LSTM) is an artificial recurrent neural network architec
 
 CNN  is the most famous and commonly employed algorithm . The main benefit of CNN compared to its predecessors is that it automatically identifies the relevant features without any human supervision . CNNs have been extensively applied in a range of different fields, including computer vision , speech processing , Face Recognition , etc. The structure of CNNs was inspired by neurons in human and animal brains, similar to a conventional neural network. More specifically, in a cat’s brain, a complex sequence of cells forms the visual cortex; this sequence is simulated by the CNN . 
 
+Importing Necesaary Packages and Libraries:
+
+pip install gensim --upgrade
+
+pip install keras --upgrade
+
+pip install pandas --upgrade
+
+I prefer working with anaconda 
 
 
 References 
